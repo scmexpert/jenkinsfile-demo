@@ -19,7 +19,7 @@ pipeline {
         }
         stage('testinggg') {
             steps {
-                echo 'testing....'
+                echo 'testing..'
             }
         }
     }
